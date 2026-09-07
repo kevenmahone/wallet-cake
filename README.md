@@ -7,3 +7,7 @@ btc: 0.00038838
 
 
 etherum 100$ 
+
+
+
+0$ solana
