@@ -11,3 +11,8 @@ etherum 100$
 
 
 0$ solana
+
+
+for the ada use stack wallet on play store
+
+0$ ada
