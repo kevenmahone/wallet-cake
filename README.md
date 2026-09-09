@@ -1,5 +1,5 @@
-monero xmr : 0.20081264
-139,59$
+monero xmr : 0.13251478
+93,64$
 
 
 btc: 0
@@ -10,9 +10,14 @@ etherum 100$
 
 
 
-0$ solana
+0 solana
 
 
 for the ada use stack wallet on play store
 
-0$ ada
+31,423558  ada
+6,71$ usd
+
+cake wallet tron trx
+18,353 trx
+8,60$
