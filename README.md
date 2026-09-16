@@ -1,23 +1,10 @@
-monero xmr : 0.13251478
-93,64$
+3 wallet 
+
+cake wallet
+gem wallet
+stack wallet
 
 
-btc: 0
-$
-
-eth: 0.0287246
-etherum 100$ 
-
-
-
-0 solana
-
-
-for the ada use stack wallet on play store
-
-31,423558  ada
-6,71$ usd
-
-cake wallet tron trx
-18,353 trx
-8,60$
+if when you recorver a wallet you have problem
+be sure is syncro
+and or delete the wallet and recorver it. 
