@@ -1,0 +1,1 @@
+no need seed phrase for near you just need to restore gem wallet first seed 
