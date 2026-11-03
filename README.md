@@ -13,7 +13,7 @@ and or delete the wallet and recorver it.
 look on the other repository for qrcode for 50% wallets recorvery. 
 
 
-
+-------------------------------------------
 only firo have money in the other wallet are empty
 
 
@@ -34,3 +34,6 @@ solana
 quant
 dash
 usdc
+
+
+jai ajouter tattoo 2026 pour mobtrer le tattoo
