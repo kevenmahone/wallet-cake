@@ -33,3 +33,4 @@ zcash
 solana
 quant
 dash
+usdc
