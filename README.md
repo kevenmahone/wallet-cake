@@ -36,4 +36,4 @@ dash
 usdc
 
 
-jai ajouter tattoo 2026 pour mobtrer le tattoo
+jai ajouter tattoo 2026 pour montrer le tattoo
