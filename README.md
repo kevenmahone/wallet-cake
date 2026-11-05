@@ -36,4 +36,8 @@ dash
 usdc
 pump ouvrer ledger flex restorer pump ou solana pump .
 
+paxg et xaut (gold coin)
+
+
+
 jai ajouter tattoo 2026 pour montrer le tattoo
