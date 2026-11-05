@@ -38,6 +38,6 @@ pump ouvrer ledger flex restorer pump ou solana pump .
 
 paxg et xaut (gold coin)
 
-
+official trump ( coin)
 
 jai ajouter tattoo 2026 pour montrer le tattoo
