@@ -42,4 +42,5 @@ official trump ( coin)
 icp
 usdc
 usdt
+xlm
 jai ajouter tattoo 2026 pour montrer le tattoo
