@@ -21,7 +21,6 @@ nov 3 2026
 list of crypto posseded ledger flex
 
 Near
-Bitcoin
 tron
 dogecoin
 ethereum
@@ -36,7 +35,7 @@ dash
 usdc
 pump ouvrer ledger flex restorer pump ou solana pump .
 
-paxg et xaut (gold coin)
+paxg  (gold coin)
 
 official trump ( coin)
 usdc
